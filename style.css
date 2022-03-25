@@ -1,0 +1,20 @@
+header {
+ font-family: Futura, Trebuchet MS;
+ font-weight: bold condensed;
+ color: #AC2B37; 
+ font-size: 25px;
+}
+
+body {
+ font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+ font-weight: bold condensed;
+ color: #008B8B; 
+ font-size: 25px;
+}
+
+h1 {
+ font-family: fantasy;
+ font-weight: bold condensed;
+ color: #006400; 
+ font-size: 25px;
+}
